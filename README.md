@@ -2,7 +2,7 @@
 
 | Lenguaje   | Nivel                | Conceptos Aplicados                                                |
 |------------|----------------------|---------------------------------------------------------------------|
-| Python     | Básico - Intermedio  | Variables, condicionales, bucles, funciones, lógica de resolución  |
+| Python     | Intermedio-avanzado  | funciones logicas,librerias pythorch,librerias y tecnicas de machine learning,librerias de estadistica,librerias de automatizacion,edicion en excel de formulas y logica de celdas |
 | C#         | Intermedio           | POO, clases, herencia, interfaces, encapsulamiento                 |
 | Java       | Intermedio - Avanzado| Estructuras de datos, listas, pilas, colas, árboles, ADT           |
 | C++      | Intermedio - Avanzado| Ficheros y desarrollo de librerias          |
