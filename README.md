@@ -12,7 +12,7 @@
 
 ## 🧪 Ejercicios destacados
 
-- **Python**: Cálculo de números primos, validación de cadenas, manejo de listas anidadas.
+- **Python**: Cálculo de números primos, validación de cadenas, manejo de listas anidadas.Ir a issues donde hay mas ejercicios
 - **C#**: Sistema de gestión de empleados,Compra de vehiculo.
 - **Java**: torneo de dragonball Z y Juego Paragon.
 - **C++**:Libreria(Alisan PG) proyecto ficheros para red comercial de clientes tipo salesforce CRM
